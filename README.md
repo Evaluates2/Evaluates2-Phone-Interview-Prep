@@ -10,7 +10,7 @@ Advice and links for conducting phone interviews with potential Evaluates2 candi
 
 ## Part 1 - Initial Chat
 
-1. "Tell me about yourelf". Let the candidate open up the discussion and tell you what he or she wants to talk about and highlight.
+1. "Tell me about yourself". Let the candidate open up the discussion and tell you what he or she wants to talk about and highlight.
 
 2. Go deeper into the candidates experiences and current skills. 
 
