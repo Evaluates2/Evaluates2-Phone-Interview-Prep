@@ -5,7 +5,12 @@ Advice and links for conducting phone interviews with potential Evaluates2 candi
 ## Part 0 - Interview Prep
 
 - Load up coderpad or repl.io beforehand. Wait to actually create it until you ask which language the candidate would like to use.
-- Be sure to call the candidate on time, but not early.
+
+- Look through the candidate's code. Look good signs like readable code, automated tests, organized file and folder organization, nicely readable markdown README files, etc. If you can find something about the candidate's code that can be improved try to work this into the conversation when going deeper into his or her skills so that you can gauge how they receive constructive criticism. It's also just a better experience for the candidate- since you can't give everyone the job it's nice to at least give everyone some piece of advice that will make them an even better engineer going forward.
+
+- Be sure to call the candidate on time, but not early. Definitely not late!
+
+- If you cannot make the call be sure to cancel and start the rescheduling process as soon as possible.
 
 
 ## Part 1 - Initial Chat
