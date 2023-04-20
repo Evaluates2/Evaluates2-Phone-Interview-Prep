@@ -31,5 +31,5 @@ After the code chat, ask the candidate what programming language he or she would
 
 - mention that you would prefer if the candidate solve the question in "TDD" style. 
 
-- after the first code challenge, ask the candidate to do another one in a different programming language (can't be javascript and typescript)!
+- after the first code challenge, ask the candidate to do another one in a different programming language (can't be javascript or typescript)!
 
